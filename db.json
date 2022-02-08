@@ -1,24 +1,134 @@
 {
-    "phones":[
+    "categories":[
         {
             "id":1,
-            "phoneName":"Iphone 10 pro",
-            "price":"22000000"
+            "name":"phone"
         },
         {
             "id":2,
-            "phoneName":"Iphone 10 pro",
-            "price":"22000000"
+            "name":"laptop"
         },
         {
             "id":3,
-            "phoneName":"Iphone 10 pro",
-            "price":"22000000"
+            "name":"accessory"
         },
         {
             "id":4,
-            "phoneName":"Iphone 10 pro",
-            "price":"22000000"
+            "name":"posts"
+        }
+    ],
+    "phones":[
+        {
+            "id":1,
+            "phoneName":"iPhone 13 Pro Max",
+            "price":32190000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-gold-1-600x600.jpg"
+        },
+        {
+            "id":2,
+            "phoneName":"Realme C21Y",
+            "price":3590000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/241771/realme-c21y-blue-600x600.jpg"
+        },
+        {
+            "id":3,
+            "phoneName":"Samsung Galaxy A03",
+            "price":"2990000",
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/251856/samsung-galaxy-a03-xanh-thumb-600x600.jpg"
+        },
+        {
+            "id":4,
+            "phoneName":"iPhone 12 Pro Max",
+            "price":3199000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/213033/iphone-12-pro-max-xam-new-600x600-600x600.jpg"
+        },
+        {
+            "id":5,
+            "phoneName":"Samsung Galaxy Z Flip3 5G",
+            "price":24990000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/229949/samsung-galaxy-z-flip-3-cream-1-600x600.jpg"
+        },
+        {
+            "id":6,
+            "phoneName":"Samsung Galaxy S21+ 5G 128GB",
+            "price":20990000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/226385/samsung-galaxy-s21-plus-den-600x600-600x600.jpg"
+        },
+        {
+            "id":6,
+            "phoneName":"Samsung Galaxy S21 5G",
+            "price":20990000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/220833/samsung-galaxy-s21-tim-600x600.jpg"
+        },
+        {
+            "id":7,
+            "phoneName":"Vivo X70 Pro 5G",
+            "price":18990000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/248099/vivo-x70-pro-xanh-hong-1-600x600.jpg"
+        },
+        {
+            "id":8,
+            "phoneName":"iPhone SE 256GB (2020) (Hộp mới)",
+            "price":15990000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/230411/iphone-se-2020-do-600x600-600x600.jpg"
+        },
+        {
+            "id":9,
+            "phoneName":"Samsung Galaxy S20 FE (8GB/256GB)",
+            "price":15490000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/224859/samsung-galaxy-s20-fan-edition-090320-040338-600x600.jpg"
+        },
+        {
+            "id":10,
+            "phoneName":"iPhone XR",
+            "price":14990000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/190325/iphone-xr-hopmoi-den-600x600-2-600x600.jpg"
+        },
+        {
+            "id":11,
+            "phoneName":"Xiaomi 11T Pro 5G",
+            "price":13990000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/262566/xiaomi-11t-pro-5g-8gb-thumb-600x600.jpeg"
+        },
+        {
+            "id":12,
+            "phoneName":"OPPO Reno6 series",
+            "price":12990000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/236186/oppo-reno6-5g-aurora-600x600.jpg"
+        },
+        {
+            "id":13,
+            "phoneName":"Samsung Galaxy A72",
+            "price":11490000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/226101/samsung-galaxy-a72-thumb-balck-600x600-600x600.jpg"
+        },
+        {
+            "id":14,
+            "phoneName":"Samsung Galaxy A52s 5G 128GB",
+            "price":10990000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/247507/samsung-galaxy-a52s-5g-mint-600x600.jpg"
+        },
+        {
+            "id":15,
+            "phoneName":"OPPO Reno4 Pro",
+            "price":10490000,
+            "categoriesId":1,
+            "imgUrl":"https://cdn.tgdd.vn/Products/Images/42/223497/oppo-reno4-pro-trang-600x600.jpg"
         }
     ],
     "laptops":[
