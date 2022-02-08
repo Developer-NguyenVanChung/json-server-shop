@@ -1,0 +1,51 @@
+{
+    "phones":[
+        {
+            "id":1,
+            "phoneName":"Iphone 10 pro",
+            "price":"22000000"
+        },
+        {
+            "id":2,
+            "phoneName":"Iphone 10 pro",
+            "price":"22000000"
+        },
+        {
+            "id":3,
+            "phoneName":"Iphone 10 pro",
+            "price":"22000000"
+        },
+        {
+            "id":4,
+            "phoneName":"Iphone 10 pro",
+            "price":"22000000"
+        }
+    ],
+    "laptops":[
+        {
+            "id":1,
+            "laptopName":"Dell",
+            "price":20000000
+        },
+        {
+            "id":2,
+            "laptopName":"Macbook",
+            "price":20000000
+        },
+        {
+            "id":3,
+            "laptopName":"Asus",
+            "price":20000000
+        }
+    ],
+    "posts":[
+        {
+            "id":1,
+            "title":"Sắp ra mắt Iphone 14"
+        },
+        {
+            "id":2,
+            "title":"Sắp ra mắt Iphone 14"
+        }
+    ]
+}
