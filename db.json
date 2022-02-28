@@ -133,126 +133,126 @@
     ],
     "laptops":[
         {
-            "id":1,
+            "id":17,
             "categoriesId":2,
             "laptopName":"Asus TUF Gaming FX506HCB i5 11400H",
             "price":25490000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/260045/asus-tuf-gaming-fx506hcb-i5-hn1138w-171121-030743-600x600.jpg"
         },
         {
-            "id":2,
+            "id":18,
             "categoriesId":2,
             "laptopName":"Dell Gaming G15 5515 R5 5600H (P105F004CGR)",
             "price":25990000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/260170/dell-gaming-g15-5515-r5-p105f004cgr-291121-115616-600x600.jpg"
         },
         {
-            "id":3,
+            "id":19,
             "categoriesId":2,
             "laptopName":"Asus TUF Gaming FX516PE i7 11370H",
             "price":28490000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/239463/asus-tuf-gaming-fx516pe-i7-hn005t-600x600.jpg"
         },
         {
-            "id":4,
+            "id":20,
             "categoriesId":2,
             "laptopName":"MacBook Pro 14 M1 Pro 2021/14 core-GPU",
             "price":52990000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/253581/apple-macbook-pro-14-m1-pro-2021-600x600.jpg"
         },
         {
-            "id":5,
+            "id":21,
             "categoriesId":2,
             "laptopName":"MacBook Pro M1 2020",
             "price":50990000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/236131/apple-macbook-pro-m1-2020-z11c000cj-600x600.jpg"
         },
         {
-            "id":6,
+            "id":22,
             "categoriesId":2,
             "laptopName":"HP 240 G8 i5 1135G7 (518V6PA)",
             "price":16990000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/253154/TimerThumb/hp-240-g8-i5-518v6pa.jpg"
         },
         {
-            "id":7,
+            "id":23,
             "categoriesId":2,
             "laptopName":"Acer TravelMate B3 TMB311 31 C2HB N4020",
             "price":8990000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/265015/TimerThumb/acer-travelmate-b3-tmb311-31-c2hb-nxvnfsv006.jpg"
         },
         {
-            "id":8,
+            "id":24,
             "categoriesId":2,
             "laptopName":"Dell Inspiron 15 3511 i3 1115G4 (P112F001CBL)",
             "price":15290000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/264370/dell-inspiron-15-3511-i3-1115g4-4gb-256gb-600x600.jpg"
         },
         {
-            "id":9,
+            "id":25,
             "categoriesId":2,
             "laptopName":"Lenovo ThinkBook 14s G2 ITL i5 1135G7",
             "price":23690000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/235393/lenovo-thinkbook-14s-g2-itl-i5-20va000nvn-600x600-600x600.jpg"
         },
         {
-            "id":10,
+            "id":26,
             "categoriesId":2,
             "laptopName":"Lenovo Yoga Slim 7 14ITL05 i5 1135G7",
             "price":24490000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/255561/TimerThumb/255561.jpg"
         },
         {
-            "id":11,
+            "id":27,
             "categoriesId":2,
             "laptopName":"Asus VivoBook A515EA OLED i5 1135G7",
             "price":19690000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/260297/asus-vivobook-a515ea-oled-i5-1135g7-8gb-600x600.jpg"
         },
         {
-            "id":12,
+            "id":28,
             "categoriesId":2,
             "laptopName":"MSI Katana Gaming GF66 11UC i7 11800H (224VN)",
             "price":29490000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/242201/msi-gf66-11uc-i7-224vn-600x600.jpg"
         },
         {
-            "id":13,
+            "id":29,
             "categoriesId":2,
             "laptopName":"Acer Nitro 5 Gaming AN515 57 720A i7 11800H",
             "price":29990000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/260058/TimerThumb/acer-nitro-5-gaming-an515-57-720a-i7-nhqeqsv004.jpg"
         },
         {
-            "id":14,
+            "id":30,
             "categoriesId":2,
             "laptopName":"Gigabyte Gaming G5 i5 10500H (KC-5S11130SB)",
             "price":27990000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/260156/gigabyte-gaming-g5-i5-10500h-16gb-512gb-6gb-171121-034937-600x600.jpg"
         },
         {
-            "id":15,
+            "id":31,
             "categoriesId":2,
             "laptopName":"HP Gaming VICTUS 16 d0204TX i5 11400H",
             "price":26490000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/265442/TimerThumb/265442.jpg"
         },
         {
-            "id":16,
+            "id":32,
             "categoriesId":2,
             "laptopName":"Asus VivoBook Pro 15 OLED M3500QC R5 5600",
             "price":26290000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/260292/asus-vivobook-pro-15-oled-m3500qc-r5-l1105t-thumb-600x600.jpg"
         },
         {
-            "id":17,
+            "id":33,
             "categoriesId":2,
             "laptopName":"Asus ZenBook Duo UX482EA i5 1135G7",
             "price":32490000,
             "imgUrl":"https://cdn.tgdd.vn/Products/Images/44/255618/asus-zenbook-ux482ea-i5-ka274t-271021-093120-600x600.jpg"
         },
         {
-            "id":18,
+            "id":34,
             "categoriesId":2,
             "laptopName":"Lenovo YOGA Slim 7 Carbon 13ITL5 i7 1165G",
             "price":32290000,
